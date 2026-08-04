@@ -1,0 +1,2 @@
+class FacturaNoExiste(Exception):
+    pass

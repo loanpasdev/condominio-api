@@ -1,0 +1,2 @@
+class PlanCuentaNoExiste(Exception):
+    pass

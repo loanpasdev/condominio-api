@@ -1,0 +1,2 @@
+class CuentaBancariaNoExiste(Exception):
+    pass

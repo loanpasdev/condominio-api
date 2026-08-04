@@ -1,0 +1,2 @@
+class ReservaNoExiste(Exception):
+    pass

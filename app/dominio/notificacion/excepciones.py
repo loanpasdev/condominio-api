@@ -1,0 +1,2 @@
+class NotificacionNoExiste(Exception):
+    pass

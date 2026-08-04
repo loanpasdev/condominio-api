@@ -1,0 +1,2 @@
+class ReciboNoExiste(Exception):
+    pass

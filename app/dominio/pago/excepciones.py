@@ -1,0 +1,2 @@
+class PagoNoExiste(Exception):
+    pass

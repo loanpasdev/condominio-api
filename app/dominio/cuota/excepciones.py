@@ -1,0 +1,2 @@
+class CuotaNoExiste(Exception):
+    pass

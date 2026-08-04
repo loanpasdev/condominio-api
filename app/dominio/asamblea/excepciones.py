@@ -1,0 +1,2 @@
+class AsambleaNoExiste(Exception):
+    pass
